@@ -1,0 +1,9 @@
+Token: 08aaf93f250ae2e4b4180a82f9ec8875
+
+https://api.themoviedb.org/3/movie/popular?api_key=08aaf93f250ae2e4b4180a82f9ec8875
+
+https://api.themoviedb.org/3/discover/movie?api_key=08aaf93f250ae2e4b4180a82f9ec8875
+
+https://api.themoviedb.org/3/search/movie?api_key=08aaf93f250ae2e4b4180a82f9ec8875&query=Resident&year=2024&page=1
+
+Imagen: https://image.tmdb.org/t/p/w500/
